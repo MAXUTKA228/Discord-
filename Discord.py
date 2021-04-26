@@ -4,7 +4,7 @@ from os import path, listdir
 from random import choice
 from discord import File
 
-TOKEN = 'ODM0Nzk1NzYxMDAxODI0MjY2.YIGGIw.VLuMR07yQnvxv6whUKtIbQIm2dM'
+TOKEN = 'ТОКЕН'
 
 bot = commands.Bot(command_prefix='>')
 
